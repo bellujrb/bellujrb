@@ -1,6 +1,6 @@
 ### I am Belluzzo
 
-A mobile developer from Brazil. I have Italian citizenship and in my free time I love to develop games.
+Totally focused on seeking excellence in everything I do, internalizing extensive technical knowledge, such as good code architecture, safe practices and the best frameworks.
 
 ## 
 
