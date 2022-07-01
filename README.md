@@ -1,6 +1,8 @@
 ### I am Belluzzo
 
-Totally focused on seeking excellence in everything I do, internalizing extensive technical knowledge, such as good code architecture, safe practices and the best frameworks.
+<p>Totally focused on seeking excellence in everything I do, internalizing extensive technical knowledge, such as good code architecture, safe practices and the best frameworks.</p>
+<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="400px" max-width="320px" width="320px" align="right">
+
 
 ## 
 
