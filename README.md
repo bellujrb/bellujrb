@@ -1,12 +1,13 @@
 ### I am Belluzzo
 
 <p>Totally focused on seeking excellence in everything I do, internalizing extensive technical knowledge, such as good code architecture, safe practices and the best frameworks.</p>
-<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="400px" max-width="320px" width="320px" align="right">
 
+<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="400px" max-width="340px" width="340px" align="right">
 
 ## 
 
 ### Skills
+
 <div>
   <a href="https://github.com/belluzzojr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belluzzojr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
