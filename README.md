@@ -1,16 +1,17 @@
-### I am Belluzzo
+<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="340px" max-width="300px" width="300px" align="right">
 
-<p>Totally focused on seeking excellence in everything I do, internalizing extensive technical knowledge, such as good code architecture, safe practices and the best frameworks.</p>
-
-<img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="340px" max-width="340px" width="340px" align="right">
-
-## 
-
-### Skills
+```javascript
+let Belluzzo = {
+    age: 21,
+    country: 'Brazil',
+    city: 'São Paulo, SP',
+    languages: ['Portugues-BR', 'English'],
+    interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`],
+    hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
+};
+```
 
 <div>
-  <a href="https://github.com/belluzzojr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belluzzojr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>   
     
   <img align="center" alt="belluzzo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
