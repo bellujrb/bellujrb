@@ -5,7 +5,7 @@ final List<String> Belluzzo = {
     age: 22,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    languages: ['Portugues-BR', 'English' and 'Italian'],
+    languages: ['Portugues-BR', 'English', 'Italian'],
     interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`],
     hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
 };
