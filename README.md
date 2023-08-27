@@ -14,14 +14,13 @@ final List<String> Belluzzo = {
 <div>
   <div style="display: inline_block"><br>   
     
-  <img align="center" alt="belluzzo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="belluzzo-css" height="30" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  
-  <img align="center" alt="belluzzo-js" height="30" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
-  <img align="center" alt="belluzzo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="belluzzo-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="belluzzo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="belluzzo-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="belluzzo-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+  <img align="center" alt="belluzzo-kotlin" height="30" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>  
+  <img align="center" alt="belluzzo-kotlin" height="30" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>  
   <img align="center" alt="belluzzo-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="belluzzo-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" alt="belluzzo-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
    
 ##
