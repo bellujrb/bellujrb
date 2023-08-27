@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/98968823/176971159-713d8449-4d4b-4ede-964b-bab1eb7be514.png" min-width="340px" max-width="300px" width="300px" align="right">
 
-```javascript
-let Belluzzo = {
-    age: 21,
+```dart
+final List<String> Belluzzo = {
+    age: 22,
     country: 'Brazil',
     city: 'São Paulo, SP',
-    languages: ['Portugues-BR', 'English'],
+    languages: ['Portugues-BR', 'English' and 'Italian'],
     interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`],
     hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
 };
