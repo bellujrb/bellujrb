@@ -8,7 +8,7 @@ val Belluzzo = listOf(
     languages: ['Portugues-BR', 'English', 'Italian'],
     interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`],
     hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
-);
+)
 ```
 
 <div>
