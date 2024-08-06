@@ -2,11 +2,11 @@
 
 ```dart
 val Belluzzo = listOf(
-    age: 22,
+    age: 23,
     country: 'Brazil',
     city: 'São Paulo, SP',
     languages: ['Portugues-BR', 'English', 'Italian'],
-    interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`],
+    interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`, `Data Science`],
     hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
 )
 ```
