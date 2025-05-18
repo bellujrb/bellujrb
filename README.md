@@ -3,7 +3,7 @@
 ```dart
 val Belluzzo = listOf(
     age: 23,
-    country: 'Brazil',
+    country: 'Switzerland',
     city: 'São Paulo, SP',
     languages: ['Portugues-BR', 'English', 'Italian'],
     interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`, `Data Science`],
