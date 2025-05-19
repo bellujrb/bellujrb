@@ -4,8 +4,8 @@
 val Belluzzo = listOf(
     age: 23,
     country: 'Switzerland',
-    city: 'São Paulo, SP',
-    languages: ['Portugues-BR', 'English', 'Italian'],
+    city: 'St, Gallen',
+    languages: ['Portugues-BR', 'English', 'Italian', 'German'],
     interests: ['Design UI/UX', 'Developer Web', `Developer Mobile`, `Data Science`],
     hobbies: ['Studies & Reading', 'Programming', 'Design' , 'Sports', 'Travelling'],
 )
